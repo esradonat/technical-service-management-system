@@ -4,15 +4,15 @@ A web-based Technical Service Management System developed using **PHP**, **Postg
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🔐 User Login
-- 📊 Dashboard
-- 👥 Customer Management
-- 👨‍🔧 Employee Management
-- 💻 Device Management
-- 🔧 Service Management
-- 📈 Reports
+-  User Login
+-  Dashboard
+-  Customer Management
+-  Employee Management
+-  Device Management
+-  Service Management
+-  Reports
 
 ---
 
