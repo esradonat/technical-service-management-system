@@ -12,7 +12,6 @@ A web-based Technical Service Management System developed using **PHP**, **Postg
 -  Employee Management
 -  Device Management
 -  Service Management
--  Reports
 
 ---
 
@@ -76,3 +75,47 @@ A web-based Technical Service Management System developed using **PHP**, **Postg
 **Esra Donat**
 
 Computer Engineering Student
+
+---
+
+# 🇹🇷 Teknik Servis Yönetim Sistemi
+
+PHP, PostgreSQL ve Bootstrap 5 kullanılarak geliştirilmiş web tabanlı bir **Teknik Servis Yönetim Sistemi**.
+
+## Özellikler
+
+-  Kullanıcı Giriş Sistemi
+-  Yönetim Paneli (Dashboard)
+-  Müşteri Yönetimi
+-  Personel Yönetimi
+-  Cihaz Yönetimi
+-  Servis Yönetimi
+-  Responsive (Mobil Uyumlu) Tasarım
+
+## 🛠 Kullanılan Teknolojiler
+
+- PHP
+- PostgreSQL
+- Bootstrap 5
+- HTML5
+- CSS3
+- JavaScript
+
+
+## ⚙ Kurulum
+
+1. Repoyu bilgisayarınıza klonlayın.
+2. `db.example.php` dosyasını `db.php` olarak kopyalayın.
+3. PostgreSQL veritabanı bağlantı bilgilerinizi düzenleyin.
+4. Gerekli veritabanı tablolarını oluşturun.
+5. Projeyi Apache (WAMP) üzerinden çalıştırın.
+
+## 👩‍💻 Geliştirici
+
+**Esra Donat**
+
+Ardahan Üniversitesi Bilgisayar Mühendisliği Öğrencisi
+
+---
+
+⭐ Bu projeyi beğendiyseniz GitHub üzerinden yıldız vermeyi unutmayın!
