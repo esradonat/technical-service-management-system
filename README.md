@@ -1,4 +1,4 @@
-# 🛠 Technical Service Management System
+# Technical Service Management System
 
 A web-based Technical Service Management System developed using **PHP**, **PostgreSQL** and **Bootstrap 5**.
 
