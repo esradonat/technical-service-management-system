@@ -1,0 +1,22 @@
+# Log dosyaları
+*.log
+
+# Ortam değişkenleri
+.env
+
+# Composer
+/vendor/
+
+# Node.js
+/node_modules/
+
+# VS Code ayarları
+.vscode/
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
+
+db.php
